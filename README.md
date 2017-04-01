@@ -1,6 +1,6 @@
 # KITTI_CROPPER
 
-Python script for croping images based on KITTI file format:
+Python script for cropping images based on KITTI file format:
 
 ```
 Car 0.00 0 0.0 470.00 199.00 877.00 414.00 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
